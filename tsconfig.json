@@ -8,8 +8,8 @@
     "jsx": "preserve",
     "baseUrl": "./",
     "paths": {
-      "@/*": ["src/*"],
-      "@types/*": ["types/*"]
+      "~/*": ["src/*"],
+      "@/*": ["types/*"]
     },
     /* noEmit - Snowpack builds (emits) files, not tsc. */
     "noEmit": true,

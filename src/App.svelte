@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Hello from '@/components/Hello.svelte'
+	import Hello from '~/components/Hello.svelte'
 	export let name: string;
 
 	//  Object.assign(document.body.style, {

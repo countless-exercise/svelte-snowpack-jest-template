@@ -14,8 +14,8 @@ module.exports = {
     '@snowpack/plugin-optimize'
   ],
   alias: {
-    '@': './src',
-    '@types': './types'
+    '~': './src',
+    '@': './types'
   },
   devOptions: {
 //    open: 'none',

@@ -1,6 +1,6 @@
 // https://testing-library.com/docs/svelte-testing-library/intro
 import { render } from '@testing-library/svelte';
-import Hello from '@/components/Hello.svelte';
+import Hello from '~/components/Hello.svelte';
 
 describe('<Hello>', () => {
   it('is Hello component', () => {
