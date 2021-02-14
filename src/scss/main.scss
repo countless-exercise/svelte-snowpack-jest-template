@@ -1,0 +1,11 @@
+// 전역적으로 사용할 스타일 명시! - svelte.config.js 설정됨
+
+:global(body) {
+  padding: 30px;
+  line-height: 1.4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
