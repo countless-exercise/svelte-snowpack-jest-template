@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=webstorm,vscode,dotenv,node
 
 build/
+dist/
 public/dist/
 .idea
 ✅ temp
